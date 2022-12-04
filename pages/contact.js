@@ -58,14 +58,14 @@ export default function Contact({ siteconfig }) {
               Contact Elie 
             </h2>
             <p className="max-w-sm mt-5">
-              Wish to add or comment about something.
+              Wish to add or comment about something?
               Shoot me a email and I will do my best to get back in a timely manner.
             </p>
 
             <div className="mt-5">
               <div className="flex items-center mt-2 space-x-2 text-dark-600 dark:text-gray-400">
                 <LocationMarkerIcon className="w-4 h-4" />
-                <span>1734 Sanfransico, CA 93063</span>
+                <span>175 N Wayfield St, Orange, CA 92867</span>
               </div>
               {siteconfig?.email && (
                 <div className="flex items-center mt-2 space-x-2 text-dark-600 dark:text-gray-400">
