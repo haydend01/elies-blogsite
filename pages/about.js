@@ -14,7 +14,7 @@ export default function About({ authors, siteconfig }) {
           About
         </h1>
         <div className="text-center">
-          <p className="text-lg">A chaotic little devil witha a good fashion sense.</p>
+          <p className="text-lg">A chaotic little devil with a good fashion sense.</p>
         </div>
 
         <div className="grid grid-cols-3 gap-5 mt-6 mb-16 md:mt-16 md:mb-32 md:gap-16">
@@ -46,11 +46,9 @@ export default function About({ authors, siteconfig }) {
             design, and fabrication.
           </p>
           <p>
-            Our API infrastructure is leveraged by clients ranging
-            from lenders to corporate card providers and business
-            forecasting tools, with use cases including automatic
-            reconciliation, business dashboarding, and loan
-            decisioning.
+            Handcrafted projects with blood, sweat, and tears mixed into all
+            pieces of work. Intricate and precise detail designed ever so carefully,
+            to hand deliver a true piece of art. 
           </p>
           <p>
             <Link href="/contact">Get in touch</Link>
