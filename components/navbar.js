@@ -31,7 +31,7 @@ export default function Navbar(props) {
       label: "Contact",
       href: "/contact"
     }
-    
+
   ];
 
   const mobilemenu = [...leftmenu, ...rightmenu];

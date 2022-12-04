@@ -14,7 +14,7 @@ export default function Footer(props) {
       <div className="flex justify-center gap-1 mt-1 text-sm text-center text-gray-500 dark:text-gray-600">
         <span>
           {" "}
-          Made by{" "}
+          Made by{"Hayden Doherty"}
           {/*  // ** 🙏  Can I ask you a favor? 🙏 **
             // Please do not remove the below link.
            // It helps us to grow & continue our work. Thank you.
