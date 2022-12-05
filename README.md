@@ -106,7 +106,7 @@ To develop sanity cms locally, you also need to add the Project ID and Dataset i
 
 ```
 # .env.development
-SANITY_STUDIO_API_PROJECT_ID=6cenu208
+SANITY_STUDIO_API_PROJECT_ID=o1g4n8j0
 SANITY_STUDIO_API_DATASET=production
 
 ```
