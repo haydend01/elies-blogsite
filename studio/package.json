@@ -1,10 +1,10 @@
 {
-  "name": "stablo",
+  "name": "eliesblog",
   "private": true,
   "version": "1.0.2",
-  "description": "Stablo is a JamStack Blog template built with Next.js, Tailwind CSS & Sanity CMS",
+  "description": "All about fashiona with a hint of my own personal work spread throughout the blog.",
   "main": "package.json",
-  "author": "Surjith S M <surjithctly@gmail.com>",
+  "author": "Elie Valdez <valdez02elie@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
@@ -32,6 +32,6 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/surjithctly/pajamas.git"
+    "url": "https://github.com/haydend01/elies-blogsite.git"
   }
 }

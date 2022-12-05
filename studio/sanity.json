@@ -1,12 +1,12 @@
 {
   "root": true,
-  "project": {
-    "name": "Stablo Template",
-    "basePath": "/studio"
-  },
   "api": {
-    "projectId": "",
+    "projectId": "6cenu208",
     "dataset": "production"
+  },
+  "project": {
+    "name": "Elie Valdez Fashion",
+    "basePath": "/studio"
   },
   "plugins": [
     "@sanity/base",
@@ -22,7 +22,8 @@
       ]
     }
   },
-  "parts": [{
+  "parts": [
+    {
       "name": "part:@sanity/base/schema",
       "path": "./schemas/schema"
     },
