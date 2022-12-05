@@ -25,7 +25,7 @@ export default function Contact({ siteconfig }) {
   const [isSuccess, setIsSuccess] = useState(false);
   const [message, setMessage] = useState(false);
   // Please update the Access Key in the Sanity CMS - Site Congig Page
-  const apiKey = siteconfig?.w3ckey || "YOUR_ACCESS_KEY_HERE";
+  const apiKey = siteconfig?.w3ckey || "skmSFbEpvYc3cvaL3nv0MM9gpYwLmrX4StVamV3w2hrZGhOggNxicezJsU5o1tSrdPamEfcGeueCfXHJXzOmIjKncePppS1U84ep2e2lii2Z8TbKVrK1iijAU4dWbINpC6HZELmFgmrhIOA4Px5pZciRIUFQyGSN9EfjfTkxvqWQKGTsR0SP";
 
   const { submit: onSubmit } = useWeb3Forms({
     apikey: apiKey,
